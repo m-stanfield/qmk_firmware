@@ -1,4 +1,4 @@
 
 qmk compile -kb omkbd/ergodash/rev1 -km m-stanfield
-qmk flash -kb omkbd/ergodash/rev1 -km m-stanfield -bl avrdude-split-right
 qmk flash -kb omkbd/ergodash/rev1 -km m-stanfield -bl dfu-split-left
+qmk flash -kb omkbd/ergodash/rev1 -km m-stanfield -bl avrdude-split-right
